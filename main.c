@@ -1,5 +1,7 @@
 #include <stdio.h>
 
-void main() {
-    printf("Garbage_Can.¥n");
+int main(void){
+
+    //入力値受け取り
+    
 }
