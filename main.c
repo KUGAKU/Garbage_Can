@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void main() {
-    printf("HelloWorld.¥n");
+    printf("Garbage_Can.¥n");
 }
